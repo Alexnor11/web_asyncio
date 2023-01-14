@@ -1,0 +1,14 @@
+async-timeout
+asyncpg
+Faker
+greenlet
+psycopg2-binary
+python-dateutil
+six
+SQLAlchemy
+text-unidecode
+typing-extensions
+requests
+aiohttp
+
+more-itertools
